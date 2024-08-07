@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import Layout from './components/shared/Layout';
 import Dashboard from './components/Dashboard';
